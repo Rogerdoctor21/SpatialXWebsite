@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SpatialX Solutions mark</title>
+  <desc id="desc">Abstract X formed with geospatial grid lines and nodes.</desc>
+  <rect width="128" height="128" rx="28" fill="#07111F"/>
+  <path d="M22 30H106M22 64H106M22 98H106M30 22V106M64 22V106M98 22V106" stroke="#243447" stroke-width="1.25"/>
+  <path d="M32 32L96 96M96 32L32 96" stroke="#14B8A6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M42 64C53 48 75 48 86 64C75 80 53 80 42 64Z" stroke="#19D3F3" stroke-width="3" fill="#07111F"/>
+  <circle cx="32" cy="32" r="5" fill="#F8FAFC"/>
+  <circle cx="96" cy="32" r="5" fill="#14B8A6"/>
+  <circle cx="32" cy="96" r="5" fill="#14B8A6"/>
+  <circle cx="96" cy="96" r="5" fill="#F8FAFC"/>
+  <circle cx="64" cy="64" r="5" fill="#19D3F3"/>
+</svg>
