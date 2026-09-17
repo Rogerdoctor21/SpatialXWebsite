@@ -1,0 +1,21 @@
+{
+  "pages": 11,
+  "wordCounts": {
+    "geospatial-modernization": 446,
+    "gis-architecture-canada": 460,
+    "arcgis-enterprise-modernization": 415,
+    "secure-gis-architecture": 436,
+    "spatial-data-engineering": 418,
+    "gis-monitoring-performance": 441,
+    "geospatial-data-governance": 412,
+    "location-intelligence": 429,
+    "public-sector-geospatial-modernization": 484,
+    "utility-infrastructure-gis": 431,
+    "gis-platform-assessment": 449
+  },
+  "maxSequenceSimilarity": {
+    "ratio": 0.2735,
+    "pageA": "geospatial-modernization",
+    "pageB": "arcgis-enterprise-modernization"
+  }
+}

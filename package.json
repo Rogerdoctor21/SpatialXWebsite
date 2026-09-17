@@ -1,23 +1,13 @@
 {
-  "name": "spatialx-solutions-website",
-  "version": "1.0.0",
-  "description": "SpatialX Solutions marketing website built with Node.js and static pages.",
-  "main": "server.js",
+  "name": "spatialx-solutions-hostinger-seo-ready",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Hostinger-ready SpatialX Solutions Inc. website with SEO/GEO metadata, search-intent architecture, and structured data.",
   "scripts": {
     "start": "node server.js",
-    "dev": "NODE_ENV=development node server.js"
+    "qa": "node scripts/qa.js"
   },
   "engines": {
     "node": ">=18"
-  },
-  "keywords": [
-    "geospatial",
-    "GIS",
-    "ArcGIS Enterprise",
-    "spatial intelligence",
-    "Node.js",
-    "Hostinger"
-  ],
-  "author": "SpatialX Solutions",
-  "license": "UNLICENSED"
+  }
 }

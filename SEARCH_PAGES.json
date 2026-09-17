@@ -1,0 +1,651 @@
+[
+  {
+    "slug": "geospatial-modernization",
+    "kicker": "Geospatial modernization",
+    "title": "Geospatial Modernization Canada | SpatialX Solutions Inc.",
+    "desc": "Modernize enterprise geospatial platforms, data foundations, operations, and governance with a practical roadmap built for Canadian organizations.",
+    "h1": "Geospatial modernization for systems people have to trust.",
+    "hero": "Modernization should reduce fragility, clarify ownership, and create a safer path from today’s environment to what comes next — without treating every legacy dependency as a failure.",
+    "service": "Geospatial Modernization",
+    "intro_title": "Modernization is a system change, not a software upgrade.",
+    "intro": [
+      "Organizations often reach a point where the GIS still works, but the cost of keeping it working keeps rising. Services accumulate, environments drift, scripts age, access patterns become harder to explain, and operational knowledge lives with too few people.",
+      "SpatialX approaches modernization as an architecture and operating-model problem. The goal is to understand what the organization depends on, protect what still creates value, reduce avoidable risk, and create a phased path toward a more secure and maintainable geospatial environment."
+    ],
+    "problems": [
+      "Aging enterprise GIS platforms with unclear dependencies.",
+      "Upgrade or migration pressure without an agreed risk model.",
+      "Development, test, and production environments that have drifted apart.",
+      "Manual deployment, validation, reporting, or recovery practices.",
+      "Cloud or hybrid ambitions without a clear geospatial architecture.",
+      "Modernization programs that need to remain understandable to GIS, IT, security, and business stakeholders."
+    ],
+    "helps": [
+      "Current-state platform, service, data, identity, integration, and operations assessment.",
+      "Target-state architecture and modernization sequencing.",
+      "Service rationalization and dependency mapping.",
+      "Environment strategy, migration patterns, validation, cutover, and rollback planning.",
+      "Governance, monitoring, security, and operational-readiness requirements.",
+      "A roadmap that distinguishes immediate stabilization from longer-term modernization."
+    ],
+    "deliverables": [
+      "Current-state assessment and risk register.",
+      "Target architecture and architecture decisions.",
+      "Phased modernization roadmap.",
+      "Service and dependency inventory.",
+      "Migration and validation approach.",
+      "Operational-readiness and governance recommendations."
+    ],
+    "outcome": "A modernization path that decision-makers can fund, technical teams can execute, and operators can support after launch.",
+    "questions": [
+      "What is genuinely business-critical today?",
+      "Which legacy components should be upgraded, retired, replaced, or intentionally retained?",
+      "Where are the highest operational and security risks?",
+      "What should move first, and what should wait?"
+    ],
+    "related": [
+      [
+        "ArcGIS Enterprise modernization",
+        "/arcgis-enterprise-modernization"
+      ],
+      [
+        "GIS architecture in Canada",
+        "/gis-architecture-canada"
+      ],
+      [
+        "Geospatial platform assessment",
+        "/gis-platform-assessment"
+      ]
+    ]
+  },
+  {
+    "slug": "gis-architecture-canada",
+    "kicker": "Enterprise GIS architecture",
+    "title": "GIS Architecture Canada | Enterprise Geospatial Architecture | SpatialX",
+    "desc": "Enterprise GIS architecture for Canadian organizations: platform design, cloud and hybrid patterns, integrations, security, data, operations, and modernization roadmaps.",
+    "h1": "Enterprise GIS architecture for Canadian organizations.",
+    "hero": "SpatialX helps organizations turn a collection of GIS servers, data stores, services, integrations, identities, and workflows into an architecture that is easier to understand, govern, secure, and evolve.",
+    "service": "Enterprise GIS Architecture",
+    "intro_title": "Architecture connects the geospatial platform to the rest of the enterprise.",
+    "intro": [
+      "GIS architecture is broader than choosing where ArcGIS Server runs. It includes identity, network boundaries, data ownership, service patterns, environments, integration points, observability, recovery, and the way teams publish and support geospatial capability.",
+      "The strongest architecture work makes trade-offs explicit. SpatialX focuses on fit-for-purpose designs that reflect operational reality rather than forcing every organization into the same reference pattern."
+    ],
+    "problems": [
+      "GIS has grown organically and no single architecture view exists.",
+      "IT and GIS teams use different language for the same risks and dependencies.",
+      "New programs need a defensible target architecture before implementation.",
+      "Cloud, hybrid, or on-premises choices are being made without workload context.",
+      "Security, identity, data, and operations are being designed separately.",
+      "Platform decisions are being driven by immediate projects rather than a coherent technical direction."
+    ],
+    "helps": [
+      "Enterprise GIS reference and target architecture.",
+      "ArcGIS Enterprise topology, environment, federation, hosting, and publishing patterns.",
+      "Cloud, hybrid, and on-premises option analysis.",
+      "Integration boundaries across databases, file shares, APIs, identity platforms, monitoring, and downstream applications.",
+      "Non-functional requirements for availability, recoverability, security, capacity, and supportability.",
+      "Architecture decision records that explain why choices were made."
+    ],
+    "deliverables": [
+      "Architecture diagrams and context views.",
+      "Target-state recommendation.",
+      "Architecture decision records.",
+      "Integration and trust-boundary view.",
+      "Non-functional requirements.",
+      "Implementation sequencing and risk register."
+    ],
+    "outcome": "A geospatial architecture that can be explained to executives, challenged by enterprise architecture and security teams, and implemented by delivery teams without losing the original design intent.",
+    "questions": [
+      "Where should geospatial capability sit in the broader enterprise architecture?",
+      "Which services and data stores need isolation, federation, or shared access?",
+      "What level of availability and recovery does the business actually require?",
+      "How should architecture governance continue after the initial design?"
+    ],
+    "related": [
+      [
+        "Secure GIS architecture",
+        "/secure-gis-architecture"
+      ],
+      [
+        "Geospatial modernization",
+        "/geospatial-modernization"
+      ],
+      [
+        "Public-sector geospatial modernization",
+        "/public-sector-geospatial-modernization"
+      ]
+    ]
+  },
+  {
+    "slug": "arcgis-enterprise-modernization",
+    "kicker": "ArcGIS Enterprise",
+    "title": "ArcGIS Enterprise Modernization Canada | SpatialX Solutions Inc.",
+    "desc": "Plan and execute ArcGIS Enterprise modernization with clear architecture, service inventory, SSO, federation, environment strategy, migration, testing, and operational readiness.",
+    "h1": "Modernize ArcGIS Enterprise without treating production like a laboratory.",
+    "hero": "ArcGIS Enterprise upgrades and migrations affect more than software versions. SpatialX focuses on the services, identities, data sources, scripts, integrations, environments, and operating practices that have to keep working around the platform.",
+    "service": "ArcGIS Enterprise Modernization",
+    "intro_title": "The difficult part is rarely clicking “upgrade.”",
+    "intro": [
+      "Enterprise GIS environments carry years of accumulated services, Python runtimes, data connections, web applications, scheduled jobs, authentication patterns, extensions, publishing habits, and undocumented dependencies. A version change can expose all of them at once.",
+      "SpatialX treats ArcGIS Enterprise modernization as a controlled transition: inventory first, architecture second, migration sequencing third, then validation and operational handover."
+    ],
+    "problems": [
+      "ArcGIS Enterprise versions approaching end-of-support or blocking newer capability.",
+      "Large service inventories with uncertain ownership and dependencies.",
+      "Legacy geoprocessing code or Python environments.",
+      "Federation, hosting, web adaptor, SSO, or certificate complexity.",
+      "Different DEV/TEST/PROD states and inconsistent deployment practices.",
+      "Uncertainty around downtime, rollback, data connections, or application compatibility."
+    ],
+    "helps": [
+      "Current-state ArcGIS Enterprise inventory and dependency analysis.",
+      "Target topology and environment design.",
+      "Portal, Server, Data Store, federation, hosting, web adaptor, and SSO considerations.",
+      "Service migration and rationalization strategy.",
+      "Python/geoprocessing modernization and validation planning.",
+      "Cutover, rollback, smoke testing, monitoring, and operational handover patterns."
+    ],
+    "deliverables": [
+      "Platform and service inventory.",
+      "Upgrade/migration risk matrix.",
+      "Target ArcGIS Enterprise architecture.",
+      "Migration waves and validation plan.",
+      "Cutover and rollback runbook.",
+      "Post-migration monitoring and operational checklist."
+    ],
+    "outcome": "An ArcGIS Enterprise modernization program that protects service continuity while creating a cleaner foundation for future geospatial delivery.",
+    "questions": [
+      "Which services are worth migrating as-is?",
+      "Which scripts or integrations need remediation before the platform changes?",
+      "What is the safest migration sequence?",
+      "How will success be measured after cutover?"
+    ],
+    "related": [
+      [
+        "Geospatial modernization",
+        "/geospatial-modernization"
+      ],
+      [
+        "GIS monitoring & performance",
+        "/gis-monitoring-performance"
+      ],
+      [
+        "Secure GIS architecture",
+        "/secure-gis-architecture"
+      ]
+    ]
+  },
+  {
+    "slug": "secure-gis-architecture",
+    "kicker": "Secure by design",
+    "title": "Secure GIS Architecture Canada | SpatialX Solutions Inc.",
+    "desc": "Design secure enterprise GIS architecture around identity, access, data exposure, publishing boundaries, auditability, resilience, and operational governance.",
+    "h1": "Secure GIS architecture starts with trust boundaries, not permission cleanup.",
+    "hero": "Geospatial platforms can expose infrastructure, assets, operational patterns, properties, environmental risk, and service information. Security needs to be part of the platform and data architecture from the beginning.",
+    "service": "Secure GIS Architecture",
+    "intro_title": "Security is an architecture quality.",
+    "intro": [
+      "A GIS can be technically functional while still being difficult to govern. Shared accounts, unclear ownership, over-broad groups, public endpoints, unmanaged service credentials, and poorly classified data create risks that cannot be solved by adding a security checklist at the end.",
+      "SpatialX works from identity, data sensitivity, publishing patterns, network and application boundaries, auditability, recovery, and operational ownership to make security practical for the teams that run the system."
+    ],
+    "problems": [
+      "Access models that grew through one-off project decisions.",
+      "Sensitive spatial datasets without clear classification or exposure rules.",
+      "Service accounts, credentials, or ownership that are difficult to audit.",
+      "Unclear boundaries between internal, partner, contractor, and public access.",
+      "Security controls that exist on paper but are hard to operate day-to-day.",
+      "Modernization or cloud moves that change established trust boundaries."
+    ],
+    "helps": [
+      "Identity, SSO, role, group, ownership, and service-account patterns.",
+      "Data classification and exposure models.",
+      "Secure publishing and service-boundary design.",
+      "Federation, reverse proxy/web adaptor, certificate, and endpoint considerations.",
+      "Backup, recovery, auditability, and incident-readiness requirements.",
+      "Security requirements integrated into modernization and data-engineering decisions."
+    ],
+    "deliverables": [
+      "Identity and access model.",
+      "Secure publishing model.",
+      "Data exposure matrix.",
+      "Architecture risk register.",
+      "Security and recovery requirements.",
+      "Governance and ownership recommendations."
+    ],
+    "outcome": "A geospatial platform that keeps useful data available to the right people while reducing unnecessary exposure and ambiguity.",
+    "questions": [
+      "Who should access what, and through which path?",
+      "Which data should be internal-only, partner-accessible, or public?",
+      "Where do service credentials live and who owns them?",
+      "What happens when identity, infrastructure, or a public endpoint fails?"
+    ],
+    "related": [
+      [
+        "GIS architecture in Canada",
+        "/gis-architecture-canada"
+      ],
+      [
+        "Geospatial data governance",
+        "/geospatial-data-governance"
+      ],
+      [
+        "ArcGIS Enterprise modernization",
+        "/arcgis-enterprise-modernization"
+      ]
+    ]
+  },
+  {
+    "slug": "spatial-data-engineering",
+    "kicker": "Spatial data engineering",
+    "title": "Spatial Data Engineering Canada | GIS Data Integration & Automation | SpatialX",
+    "desc": "Spatial data engineering for enterprise GIS: geodatabases, Oracle Spatial, SDE, PostGIS, FME/ETL, validation, lineage, automation, and repeatable publishing.",
+    "h1": "Spatial data engineering that makes geospatial systems easier to trust.",
+    "hero": "SpatialX designs repeatable data patterns around intake, transformation, validation, lineage, exception handling, storage, and publishing — so automation becomes part of a governed data lifecycle rather than a pile of scripts.",
+    "service": "Spatial Data Engineering & Automation",
+    "intro_title": "Reliable applications depend on reliable spatial foundations.",
+    "intro": [
+      "Enterprise geospatial data often moves through databases, file shares, APIs, vendor deliveries, ETL tools, scripts, feature services, imagery stores, and reporting workflows. Each handoff is an opportunity for ambiguity or failure.",
+      "SpatialX treats automation as a data-engineering capability: inputs are known, transformations are testable, exceptions are visible, outputs are validated, and ownership is explicit."
+    ],
+    "problems": [
+      "Multiple sources of truth for the same feature or boundary.",
+      "Manual data preparation that depends on staff memory.",
+      "Spatial QA/QC performed late or inconsistently.",
+      "ETL jobs that run but are difficult to explain or troubleshoot.",
+      "Enterprise geodatabases with unclear ownership, lineage, or performance patterns.",
+      "Publishing pipelines that mix transformation, validation, and presentation logic."
+    ],
+    "helps": [
+      "Enterprise geodatabase patterns across Oracle Spatial/SDE and PostGIS-aware environments.",
+      "FME/ETL pipeline design and operationalization.",
+      "Schema, geometry, attribute, topology, and business-rule validation.",
+      "Metadata, lineage, source-of-record, and stewardship models.",
+      "Scheduled processing, exception handling, logging, and restartability.",
+      "Separation of data, processing, business logic, and presentation concerns."
+    ],
+    "deliverables": [
+      "Data flow and lineage diagrams.",
+      "ETL/automation design.",
+      "Validation and QA/QC framework.",
+      "Exception-handling and logging pattern.",
+      "Geodatabase and publishing recommendations.",
+      "Ownership and operational runbook."
+    ],
+    "outcome": "Spatial data that is easier to explain, validate, automate, publish, and reuse across applications and analytics.",
+    "questions": [
+      "What is the authoritative source?",
+      "Where should validation happen?",
+      "Which transformations are business rules versus presentation logic?",
+      "How can a failed pipeline be restarted without creating duplicate or inconsistent outputs?"
+    ],
+    "related": [
+      [
+        "Geospatial data governance",
+        "/geospatial-data-governance"
+      ],
+      [
+        "Location intelligence",
+        "/location-intelligence"
+      ],
+      [
+        "GIS monitoring & performance",
+        "/gis-monitoring-performance"
+      ]
+    ]
+  },
+  {
+    "slug": "gis-monitoring-performance",
+    "kicker": "Performance & reliability",
+    "title": "GIS Performance & ArcGIS Monitoring Canada | SpatialX Solutions Inc.",
+    "desc": "Diagnose ArcGIS performance, service reliability, geoprocessing bottlenecks, infrastructure dependencies, logs, capacity, file access, and operational monitoring.",
+    "h1": "Make GIS performance explainable before you make it faster.",
+    "hero": "Slow GIS is rarely one thing. SpatialX separates service behavior, compute, databases, file access, raster/vector I/O, queues, integrations, and workload patterns into evidence that teams can act on.",
+    "service": "GIS Monitoring, Performance & Reliability",
+    "intro_title": "Performance troubleshooting should produce an operating model, not just a one-time fix.",
+    "intro": [
+      "Teams often see the symptom first: a service is slow, a report takes longer, a geoprocessing job stalls, or response times vary across the day. Without instrumentation, the investigation becomes guesswork.",
+      "SpatialX focuses on repeatable diagnosis and operational visibility. The objective is to identify where time is spent, what dependencies correlate with degradation, and which signals should remain monitored after the incident is resolved."
+    ],
+    "problems": [
+      "ArcGIS Server or geoprocessing services with inconsistent response times.",
+      "CPU appears moderate while jobs still take too long.",
+      "Database, NAS/file share, raster, or network dependencies are suspected but not measured.",
+      "Queues, instance limits, or job concurrency create unpredictable throughput.",
+      "Logs exist but are not converted into useful operational signals.",
+      "Teams repeatedly troubleshoot the same categories of incident from scratch."
+    ],
+    "helps": [
+      "Request/job timing analysis and service-level evidence.",
+      "ArcGIS Server/Portal and supporting infrastructure health patterns.",
+      "Database, file-share, raster/vector I/O, and network dependency analysis.",
+      "Capacity, concurrency, queue, and workload-pattern review.",
+      "Operational dashboards, log patterns, alerts, and runbooks.",
+      "Performance baseline and post-change validation."
+    ],
+    "deliverables": [
+      "Performance evidence pack.",
+      "Bottleneck and dependency map.",
+      "Service-health indicators.",
+      "Capacity and concurrency recommendations.",
+      "Monitoring/dashboard requirements.",
+      "Incident and troubleshooting runbook."
+    ],
+    "outcome": "A GIS team that can explain performance behavior, detect degradation earlier, and make infrastructure or service changes based on evidence rather than intuition.",
+    "questions": [
+      "Where is elapsed time actually being spent?",
+      "Does the issue follow the service, data, machine, workload, or time of day?",
+      "Which metrics predict user impact?",
+      "What should be continuously monitored after the immediate issue is fixed?"
+    ],
+    "related": [
+      [
+        "GIS platform assessment",
+        "/gis-platform-assessment"
+      ],
+      [
+        "ArcGIS Enterprise modernization",
+        "/arcgis-enterprise-modernization"
+      ],
+      [
+        "Spatial data engineering",
+        "/spatial-data-engineering"
+      ]
+    ]
+  },
+  {
+    "slug": "geospatial-data-governance",
+    "kicker": "Data governance",
+    "title": "Geospatial Data Governance Canada | SpatialX Solutions Inc.",
+    "desc": "Build practical geospatial data governance around ownership, stewardship, metadata, classification, quality, lineage, publishing, access, and lifecycle management.",
+    "h1": "Geospatial data governance people can actually operate.",
+    "hero": "Governance should make decisions clearer: who owns the data, what quality means, where it can be published, how changes are approved, and what happens when the source no longer matches the business need.",
+    "service": "Geospatial Data Governance",
+    "intro_title": "The goal is not more policy. It is less ambiguity.",
+    "intro": [
+      "Spatial data crosses organizational boundaries easily. A dataset can move from source system to enterprise geodatabase to feature service to dashboard to external extract — while ownership and quality expectations become less clear at every step.",
+      "SpatialX connects governance to the actual data lifecycle: source, stewardship, transformation, validation, publication, access, retention, and change."
+    ],
+    "problems": [
+      "No clear authoritative source or data owner.",
+      "Multiple published versions of the same information.",
+      "Metadata and lineage are incomplete or inconsistent.",
+      "Quality expectations differ by team or application.",
+      "Sensitive data is exposed through convenience rather than policy.",
+      "Changes to schemas or datasets create downstream surprises."
+    ],
+    "helps": [
+      "Ownership, stewardship, and decision-right models.",
+      "Source-of-record and authoritative-data definitions.",
+      "Metadata, lineage, classification, and lifecycle requirements.",
+      "Quality rules and validation gates.",
+      "Publishing, sharing, retention, and access patterns.",
+      "Governance that aligns GIS, data, IT, security, and program teams."
+    ],
+    "deliverables": [
+      "Geospatial governance framework.",
+      "Ownership/RACI-style responsibility model.",
+      "Data classification and publishing matrix.",
+      "Quality and validation standards.",
+      "Metadata and lineage requirements.",
+      "Change and lifecycle process."
+    ],
+    "outcome": "A geospatial data environment where teams can answer who owns a dataset, why it can be trusted, where it came from, and how it should be used.",
+    "questions": [
+      "Who has authority to change the data?",
+      "Which version is authoritative?",
+      "What quality is required for each use case?",
+      "Which datasets require additional controls or approval before publication?"
+    ],
+    "related": [
+      [
+        "Spatial data engineering",
+        "/spatial-data-engineering"
+      ],
+      [
+        "Secure GIS architecture",
+        "/secure-gis-architecture"
+      ],
+      [
+        "Public-sector modernization",
+        "/public-sector-geospatial-modernization"
+      ]
+    ]
+  },
+  {
+    "slug": "location-intelligence",
+    "kicker": "Location intelligence",
+    "title": "Location Intelligence & Spatial Analytics Canada | SpatialX Solutions Inc.",
+    "desc": "Turn geospatial data into decision-ready location intelligence through spatial analytics, risk models, imagery interpretation, dashboards, and intelligent workflows.",
+    "h1": "Location intelligence that starts with the decision, not the dashboard.",
+    "hero": "SpatialX helps organizations connect spatial data, analysis, automation, and domain context into decision-ready systems — including advanced and machine-assisted workflows where they create practical value.",
+    "service": "Decision-Ready Location Intelligence",
+    "intro_title": "The output is not the map. The output is a better decision.",
+    "intro": [
+      "Location intelligence becomes valuable when the analysis is tied to a real decision: where to prioritize work, which assets are exposed, which sites meet constraints, how risk changes across space, or what has changed over time.",
+      "SpatialX designs the data, analytical logic, validation, and delivery pattern together so that outputs remain explainable and useful beyond a single demonstration."
+    ],
+    "problems": [
+      "Dashboards show information but do not support a clear decision.",
+      "Analytical logic is hidden in one-off notebooks or scripts.",
+      "Risk models combine spatial factors without transparent weighting or provenance.",
+      "Imagery or raster workflows are difficult to repeat or validate.",
+      "Organizations want to use more advanced methods but the data foundation is not ready.",
+      "Teams need human review and traceability around machine-assisted results."
+    ],
+    "helps": [
+      "Decision framing and analytical requirements.",
+      "Spatial suitability, proximity, exposure, network, change, and risk-analysis patterns.",
+      "Explainable scoring and weighting models.",
+      "Imagery and raster interpretation workflows.",
+      "Machine-assisted spatial analysis with human review and quality controls.",
+      "APIs, services, dashboards, and reports that deliver the result to the people who need it."
+    ],
+    "deliverables": [
+      "Decision and analysis framework.",
+      "Spatial model design.",
+      "Data requirements and validation approach.",
+      "Prototype analytical workflow.",
+      "Result-delivery architecture.",
+      "Explainability and human-review controls."
+    ],
+    "outcome": "Location intelligence that can be explained, challenged, repeated, and connected to an operational decision.",
+    "questions": [
+      "What decision changes because of this analysis?",
+      "Which spatial factors genuinely matter?",
+      "How will model assumptions be explained?",
+      "Where is human judgement required before the result is acted on?"
+    ],
+    "related": [
+      [
+        "Spatial data engineering",
+        "/spatial-data-engineering"
+      ],
+      [
+        "Geospatial modernization",
+        "/geospatial-modernization"
+      ],
+      [
+        "Public-sector geospatial modernization",
+        "/public-sector-geospatial-modernization"
+      ]
+    ]
+  },
+  {
+    "slug": "public-sector-geospatial-modernization",
+    "kicker": "Public-sector geospatial systems",
+    "title": "Public Sector GIS Modernization Canada | SpatialX Solutions Inc.",
+    "desc": "Geospatial modernization for Canadian public-sector organizations: secure architecture, governance, platform roadmaps, spatial data, interoperability, reliability, and decision support.",
+    "h1": "Geospatial modernization for Canadian public-sector delivery.",
+    "hero": "Public-sector geospatial systems have to balance continuity, security, governance, interoperability, accessibility, procurement realities, and long technology lifecycles. SpatialX designs modernization around those constraints instead of pretending they do not exist.",
+    "service": "Public-Sector Geospatial Modernization",
+    "intro_title": "Modernization has to improve capability without losing institutional control.",
+    "intro": [
+      "Government geospatial platforms often support many programs at once: planning, infrastructure, emergency management, land and property, environmental work, public information, analytics, and internal operations. The platform therefore has to satisfy more than one project team.",
+      "SpatialX brings architecture discipline to the shared foundation: secure platform patterns, data governance, interoperability, operational reliability, phased modernization, and clear decision records."
+    ],
+    "problems": [
+      "Legacy platforms support important services but are expensive or risky to change.",
+      "Multiple programs publish spatial data with inconsistent governance.",
+      "Security, privacy, accessibility, and audit requirements intersect with service delivery.",
+      "Cloud or shared-platform initiatives need a realistic geospatial architecture.",
+      "Procurement and delivery timelines require clear scope, risks, and deliverables.",
+      "GIS teams need to modernize while continuing day-to-day public service delivery."
+    ],
+    "helps": [
+      "Current-state and target-state geospatial architecture.",
+      "Secure platform and identity patterns.",
+      "Spatial data governance and interoperability.",
+      "Modernization roadmap with phased investment decisions.",
+      "Monitoring, operational readiness, documentation, and handover.",
+      "Decision-support and location-intelligence patterns that remain explainable and governable."
+    ],
+    "deliverables": [
+      "Architecture and modernization roadmap.",
+      "Risk and dependency register.",
+      "Governance and data-sharing recommendations.",
+      "Security and operational requirements.",
+      "Implementation sequencing.",
+      "Executive and technical decision materials."
+    ],
+    "outcome": "A modernization program that can be understood by program leaders, GIS teams, enterprise architecture, IT operations, security, and procurement — with clearer ownership after delivery.",
+    "questions": [
+      "Which shared geospatial capabilities should be treated as enterprise infrastructure?",
+      "What has to remain stable throughout modernization?",
+      "How should data and services be governed across programs?",
+      "What decisions need to be made now versus deferred until later phases?"
+    ],
+    "related": [
+      [
+        "GIS architecture in Canada",
+        "/gis-architecture-canada"
+      ],
+      [
+        "Geospatial data governance",
+        "/geospatial-data-governance"
+      ],
+      [
+        "Geospatial platform assessment",
+        "/gis-platform-assessment"
+      ]
+    ]
+  },
+  {
+    "slug": "utility-infrastructure-gis",
+    "kicker": "Utilities & infrastructure",
+    "title": "Utility & Infrastructure GIS Consulting Canada | SpatialX Solutions Inc.",
+    "desc": "Geospatial architecture and modernization for utilities and infrastructure: enterprise GIS, spatial data, assets, field workflows, reliability, governance, and location intelligence.",
+    "h1": "Geospatial systems for utilities and infrastructure that have to work in the real world.",
+    "hero": "Utility and infrastructure GIS connects assets, field operations, engineering context, risk, maintenance, customer impact, planning, and enterprise data. SpatialX focuses on the architecture and data foundations that keep those connections reliable.",
+    "service": "Utility & Infrastructure Geospatial Architecture",
+    "intro_title": "When location is operational, GIS becomes part of the system of work.",
+    "intro": [
+      "Asset and infrastructure environments put unusual pressure on geospatial systems: large datasets, integrations, field use, long asset lifecycles, changing network conditions, regulatory requirements, and high expectations for availability.",
+      "SpatialX works across platform architecture, data engineering, monitoring, governance, and analytical workflows to reduce fragility and make geospatial capability easier to operate at enterprise scale."
+    ],
+    "problems": [
+      "Asset data is distributed across GIS, enterprise systems, files, and project-specific sources.",
+      "Field and office workflows depend on different versions or publishing cycles.",
+      "Platform performance becomes unpredictable as services and users grow.",
+      "Data quality issues affect asset views, analysis, reporting, or planning.",
+      "Modernization must coexist with operational systems that cannot simply stop.",
+      "Risk, outage, maintenance, and planning decisions need stronger spatial context."
+    ],
+    "helps": [
+      "Enterprise GIS architecture and modernization.",
+      "Spatial data integration, geodatabases, ETL, validation, and lineage.",
+      "Field/office publishing patterns and service design.",
+      "Performance monitoring, capacity, and reliability.",
+      "Governance for asset and reference data.",
+      "Spatial risk, prioritization, and decision-support patterns."
+    ],
+    "deliverables": [
+      "Target geospatial architecture.",
+      "Data integration and quality model.",
+      "Service and publishing strategy.",
+      "Performance/reliability requirements.",
+      "Governance recommendations.",
+      "Phased modernization roadmap."
+    ],
+    "outcome": "A geospatial foundation that supports operational continuity while improving how asset, field, planning, and analytical workflows connect.",
+    "questions": [
+      "Which systems own asset truth?",
+      "Where does spatial context add value without duplicating another system of record?",
+      "Which services are operationally critical?",
+      "How should the platform scale as data, users, and field workflows grow?"
+    ],
+    "related": [
+      [
+        "GIS monitoring & performance",
+        "/gis-monitoring-performance"
+      ],
+      [
+        "Spatial data engineering",
+        "/spatial-data-engineering"
+      ],
+      [
+        "GIS architecture in Canada",
+        "/gis-architecture-canada"
+      ]
+    ]
+  },
+  {
+    "slug": "gis-platform-assessment",
+    "kicker": "Focused engagement",
+    "title": "GIS Platform Assessment Canada | Modernization Roadmap | SpatialX",
+    "desc": "A focused GIS platform assessment covering current state, architecture risk, security, performance, data, operations, and a phased modernization roadmap.",
+    "h1": "Start modernization with a clear picture of the platform you actually have.",
+    "hero": "A SpatialX geospatial platform assessment creates a shared current-state view, identifies the risks that matter, and turns modernization pressure into a prioritized architecture roadmap.",
+    "service": "Geospatial Platform Assessment",
+    "intro_title": "A practical first engagement for organizations that know something has to change.",
+    "intro": [
+      "Many teams know the environment is carrying risk but do not yet have enough evidence to decide where to invest first. A focused platform assessment creates that evidence before a large implementation begins.",
+      "The engagement is intentionally architecture-led. It looks across platform, services, data, identity, security, performance, integrations, operations, and governance so that one problem is not “fixed” by moving the risk somewhere else."
+    ],
+    "problems": [
+      "Leadership wants a modernization roadmap before approving a larger program.",
+      "The GIS team has a long list of issues but no agreed priority.",
+      "IT or security needs a clearer picture of the geospatial environment.",
+      "Upgrade, cloud, performance, or resilience decisions are being discussed separately.",
+      "Operational knowledge is concentrated with a few people.",
+      "The organization needs a defensible basis for procurement or implementation planning."
+    ],
+    "helps": [
+      "Stakeholder and technical discovery.",
+      "Current-state architecture and dependency review.",
+      "Platform, service, data, identity, security, performance, and operations risk assessment.",
+      "Target-state options and architecture principles.",
+      "Prioritized initiatives separated into stabilize, modernize, and scale.",
+      "Decision-ready roadmap for leadership, GIS, IT, security, and delivery teams."
+    ],
+    "deliverables": [
+      "Current-state architecture view.",
+      "Risk and dependency register.",
+      "Priority findings with rationale.",
+      "Target-state architecture direction.",
+      "Phased modernization roadmap.",
+      "Recommended next engagements or implementation work packages."
+    ],
+    "outcome": "A concise decision package that helps the organization decide what to fix now, what to modernize next, and what can safely wait.",
+    "questions": [
+      "What risks are material versus merely inconvenient?",
+      "Which changes unlock the most future flexibility?",
+      "What should be handled as architecture, operations, data, security, or implementation work?",
+      "What evidence is needed before committing to the next phase?"
+    ],
+    "related": [
+      [
+        "Geospatial modernization",
+        "/geospatial-modernization"
+      ],
+      [
+        "GIS monitoring & performance",
+        "/gis-monitoring-performance"
+      ],
+      [
+        "Secure GIS architecture",
+        "/secure-gis-architecture"
+      ]
+    ]
+  }
+]

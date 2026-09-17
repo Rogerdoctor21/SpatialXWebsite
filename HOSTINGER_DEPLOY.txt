@@ -1,0 +1,57 @@
+SpatialX Solutions Inc. — Hostinger deployment
+
+UPLOAD
+Upload this ZIP as a Node.js / Web App deployment.
+
+Entry file: server.js
+Start command: npm start
+Build command: leave blank
+Node version: 18+
+
+DOMAINS
+Primary/canonical domain:
+https://spatialx.ca
+
+Secondary domain:
+https://spatialxsolutions.com
+
+Attach both domains to the website/application if Hostinger permits it. The Node server includes 301 redirects from:
+- spatialxsolutions.com
+- www.spatialxsolutions.com
+- www.spatialx.ca
+
+to the matching https://spatialx.ca URL.
+
+If Hostinger offers a platform-level “primary domain / redirect domain” setting, also set spatialx.ca as primary and spatialxsolutions.com as a permanent redirect. Do not serve two separately indexable copies of the site.
+
+CONTACT FORM
+The contact form posts to /api/contact on the same site. Valid inquiries are stored server-side in data/contact-submissions.jsonl.
+
+Recommended email notification using the SpatialX mailbox:
+SMTP_HOST=smtp.hostinger.com
+SMTP_PORT=465
+SMTP_USER=info@SpatialXSolutions.com
+SMTP_PASS=<mailbox password or app password>
+CONTACT_TO=info@SpatialXSolutions.com
+SMTP_HELO=spatialx.ca
+
+If SMTP is not configured, the form still stores valid inquiries and reports honest delivery status.
+
+SEO / DISCOVERY AFTER DEPLOYMENT
+1. Verify https://spatialx.ca in Google Search Console.
+2. Submit https://spatialx.ca/sitemap.xml.
+3. Verify the site in Bing Webmaster Tools and submit the same sitemap.
+4. Check https://spatialx.ca/robots.txt publicly.
+5. Confirm bot/CDN/firewall rules allow normal search crawlers and OAI-SearchBot.
+6. Test several public URLs with Google Rich Results Test / URL Inspection after launch.
+
+PUBLIC BUSINESS CONTACT
+Email: info@SpatialXSolutions.com
+Phone: +1 416-477-7414
+Service area: Canada
+
+INTENTIONAL NEXT-ITERATION ITEMS
+- Replace temporary wordmark with final official logo.
+- Add real SpatialX LinkedIn company URL after the page is developed.
+- Add Calendly / strategy-call scheduling URL when ready.
+- Complete final privacy/legal review before production publication.

@@ -1,0 +1,322 @@
+{
+  "generatedAt": "2026-09-16T03:23:11.326Z",
+  "htmlFiles": 15,
+  "pages": {
+    "404.html": {
+      "words": 84,
+      "title": "Page Not Found | SpatialX Solutions Inc.",
+      "description": "Geospatial modernization for secure, intelligent systems."
+    },
+    "about.html": {
+      "words": 414,
+      "title": "About | SpatialX Solutions Inc.",
+      "description": "About SpatialX Solutions Inc. and its geospatial modernization principles."
+    },
+    "capabilities.html": {
+      "words": 1132,
+      "title": "Capabilities | SpatialX Solutions Inc.",
+      "description": "Detailed geospatial modernization, secure GIS architecture, spatial data engineering, monitoring, and location intelligence capabilities."
+    },
+    "case-studies.html": {
+      "words": 897,
+      "title": "Case Studies | SpatialX Solutions Inc.",
+      "description": "Anonymized geospatial modernization and architecture case-study patterns."
+    },
+    "contact.html": {
+      "words": 182,
+      "title": "Contact | SpatialX Solutions Inc.",
+      "description": "Contact SpatialX Solutions Inc. for geospatial modernization, secure architecture, spatial data foundations, monitoring, and location intelligence."
+    },
+    "index.html": {
+      "words": 870,
+      "title": "Home | SpatialX Solutions Inc.",
+      "description": "Geospatial modernization for secure, intelligent systems."
+    },
+    "industries.html": {
+      "words": 437,
+      "title": "Industries | SpatialX Solutions Inc.",
+      "description": "Geospatial modernization for provincial/public-sector organizations, utilities, enterprise data teams, infrastructure, and environmental/risk organizations."
+    },
+    "insights/bad-spatial-data-architecture-problem.html": {
+      "words": 421,
+      "title": "Bad Spatial Data Is an Architecture Problem | SpatialX Solutions Inc.",
+      "description": "Messy geometry, weak metadata, unclear ownership, and broken pipelines are not just data issues. They are system design issues."
+    },
+    "insights/gis-critical-infrastructure.html": {
+      "words": 444,
+      "title": "When GIS Becomes Critical Infrastructure | SpatialX Solutions Inc.",
+      "description": "Modern GIS is no longer a side application. For many organizations, it is part of the operational backbone."
+    },
+    "insights/gis-support-vs-architecture.html": {
+      "words": 423,
+      "title": "The Difference Between GIS Support and GIS Architecture | SpatialX Solutions Inc.",
+      "description": "Support fixes the issue in front of you. Architecture reduces the number of issues that keep coming back."
+    },
+    "insights/secure-by-design-geospatial.html": {
+      "words": 405,
+      "title": "Secure by Design: What It Means for Geospatial Systems | SpatialX Solutions Inc.",
+      "description": "Geospatial security is about more than login screens. It is about exposure, roles, boundaries, data sensitivity, and operational trust."
+    },
+    "insights/spatial-service-outage.html": {
+      "words": 417,
+      "title": "What’s So Spatial About a Service Outage? | SpatialX Solutions Inc.",
+      "description": "A failed map service is not just a technical error. It can break reporting, operations, customer delivery, and trust."
+    },
+    "insights/whats-so-spatial-about-risk.html": {
+      "words": 483,
+      "title": "What’s So Spatial About Risk? | SpatialX Solutions Inc.",
+      "description": "Risk is rarely random. It clusters, spreads, follows networks, changes with proximity, and becomes clearer when viewed through location."
+    },
+    "insights.html": {
+      "words": 326,
+      "title": "Insights | SpatialX Solutions Inc.",
+      "description": "SpatialX insights on geospatial architecture, spatial data engineering, security, automation, monitoring, and location intelligence."
+    },
+    "privacy.html": {
+      "words": 307,
+      "title": "Privacy | SpatialX Solutions Inc.",
+      "description": "Privacy note for SpatialX Solutions Inc."
+    }
+  },
+  "checks": [
+    {
+      "name": "required page index.html",
+      "ok": true
+    },
+    {
+      "name": "required page capabilities.html",
+      "ok": true
+    },
+    {
+      "name": "required page industries.html",
+      "ok": true
+    },
+    {
+      "name": "required page case-studies.html",
+      "ok": true
+    },
+    {
+      "name": "required page insights.html",
+      "ok": true
+    },
+    {
+      "name": "required page about.html",
+      "ok": true
+    },
+    {
+      "name": "required page contact.html",
+      "ok": true
+    },
+    {
+      "name": "required page privacy.html",
+      "ok": true
+    },
+    {
+      "name": "required page 404.html",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: AI consultant",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: public sector expert",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: freelancer",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: generic GIS consultant",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: revolutionary",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: disruptive",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: AI-first",
+      "ok": true
+    },
+    {
+      "name": "forbidden phrase absent: mapping services",
+      "ok": true
+    },
+    {
+      "name": "required copy present: SpatialX Solutions Inc.",
+      "ok": true
+    },
+    {
+      "name": "required copy present: Geospatial modernization for secure, intelligent systems",
+      "ok": true
+    },
+    {
+      "name": "required copy present: Canadian-owned. Secure by design. Built for complex geospatial environments.",
+      "ok": true
+    },
+    {
+      "name": "required copy present: info@SpatialXSolutions.com",
+      "ok": true
+    },
+    {
+      "name": "required copy present: Serving Canada",
+      "ok": true
+    },
+    {
+      "name": "capability anchor modernization",
+      "ok": true
+    },
+    {
+      "name": "capability anchor secure-architecture",
+      "ok": true
+    },
+    {
+      "name": "capability anchor data-engineering",
+      "ok": true
+    },
+    {
+      "name": "capability anchor monitoring",
+      "ok": true
+    },
+    {
+      "name": "capability anchor location-intelligence",
+      "ok": true
+    },
+    {
+      "name": "no phone number shown",
+      "ok": true,
+      "matches": []
+    },
+    {
+      "name": "internal links and anchors resolve",
+      "ok": true,
+      "linkCount": 318
+    },
+    {
+      "name": "insight article pages included",
+      "ok": true,
+      "count": 6
+    },
+    {
+      "name": "brand color #07111F",
+      "ok": true
+    },
+    {
+      "name": "brand color #14B8A6",
+      "ok": true
+    },
+    {
+      "name": "brand color #19D3F3",
+      "ok": true
+    },
+    {
+      "name": "brand color #F8FAFC",
+      "ok": true
+    },
+    {
+      "name": "responsive breakpoint max-width:1020px",
+      "ok": true
+    },
+    {
+      "name": "responsive breakpoint max-width:760px",
+      "ok": true
+    },
+    {
+      "name": "mobile menu implemented",
+      "ok": true
+    },
+    {
+      "name": "contact field name=\"name\"",
+      "ok": true
+    },
+    {
+      "name": "contact field name=\"organization\"",
+      "ok": true
+    },
+    {
+      "name": "contact field name=\"email\"",
+      "ok": true
+    },
+    {
+      "name": "contact field name=\"interest\"",
+      "ok": true
+    },
+    {
+      "name": "contact field name=\"timeline\"",
+      "ok": true
+    },
+    {
+      "name": "contact field name=\"message\"",
+      "ok": true
+    },
+    {
+      "name": "contact form uses same-origin API rather than mailto submission",
+      "ok": true
+    },
+    {
+      "name": "contact endpoint persists validated inquiries",
+      "ok": true
+    },
+    {
+      "name": "optional SMTP notification path documented/implemented",
+      "ok": true
+    },
+    {
+      "name": "templated reading-time labels removed",
+      "ok": true,
+      "values": []
+    },
+    {
+      "name": "keyboard focus styles present",
+      "ok": true
+    },
+    {
+      "name": "reduced-motion support present",
+      "ok": true
+    },
+    {
+      "name": "sticky-header anchor offsets hardened",
+      "ok": true
+    },
+    {
+      "name": "founder-led delivery scaling model is explained",
+      "ok": true
+    },
+    {
+      "name": "server security header implemented: Content-Security-Policy",
+      "ok": true
+    },
+    {
+      "name": "server security header implemented: X-Content-Type-Options",
+      "ok": true
+    },
+    {
+      "name": "server security header implemented: X-Frame-Options",
+      "ok": true
+    },
+    {
+      "name": "server security header implemented: Referrer-Policy",
+      "ok": true
+    },
+    {
+      "name": "server security header implemented: Permissions-Policy",
+      "ok": true
+    },
+    {
+      "name": "server security header implemented: Strict-Transport-Security",
+      "ok": true
+    },
+    {
+      "name": "production package contains no QA contact submissions",
+      "ok": true
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "ok": true
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-09-17",
+  "status": "PASS",
+  "routesChecked": 24,
+  "results": [
+    {
+      "url": "https://spatialx.ca/",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/capabilities",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/industries",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/case-studies",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/about",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/contact",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/geospatial-modernization",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/gis-architecture-canada",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/arcgis-enterprise-modernization",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/secure-gis-architecture",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/spatial-data-engineering",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/gis-monitoring-performance",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/geospatial-data-governance",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/location-intelligence",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/public-sector-geospatial-modernization",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/utility-infrastructure-gis",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/gis-platform-assessment",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights/bad-spatial-data-architecture-problem",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights/gis-critical-infrastructure",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights/gis-support-vs-architecture",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights/secure-by-design-geospatial",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights/spatial-service-outage",
+      "status": 200
+    },
+    {
+      "url": "https://spatialx.ca/insights/whats-so-spatial-about-risk",
+      "status": 200
+    }
+  ],
+  "legacyRedirects": [
+    {
+      "path": "/",
+      "status": "HTTP/1.1 301 Moved Permanently",
+      "location": "https://spatialx.ca/"
+    },
+    {
+      "path": "/gis-architecture-canada",
+      "status": "HTTP/1.1 301 Moved Permanently",
+      "location": "https://spatialx.ca/gis-architecture-canada"
+    },
+    {
+      "path": "/public-sector-geospatial-modernization",
+      "status": "HTTP/1.1 301 Moved Permanently",
+      "location": "https://spatialx.ca/public-sector-geospatial-modernization"
+    }
+  ],
+  "contactValidationStatus": 400,
+  "contactSubmissionStatus": 200,
+  "securityHeadersChecked": true,
+  "issues": []
+}

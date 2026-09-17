@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SpatialX Insights</title>
+    <link>https://spatialx.ca/insights</link>
+    <description>Insights on geospatial architecture, modernization, spatial data engineering, security, reliability, and location intelligence.</description>
+    <language>en-ca</language>
+    <item>
+      <title>Bad Spatial Data Is an Architecture Problem</title>
+      <link>https://spatialx.ca/insights/bad-spatial-data-architecture-problem</link>
+      <guid isPermaLink="true">https://spatialx.ca/insights/bad-spatial-data-architecture-problem</guid>
+      <description>Messy geometry, weak metadata, unclear ownership, and broken pipelines are often architecture problems—not just data-cleanup problems.</description>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>When GIS Becomes Critical Infrastructure</title>
+      <link>https://spatialx.ca/insights/gis-critical-infrastructure</link>
+      <guid isPermaLink="true">https://spatialx.ca/insights/gis-critical-infrastructure</guid>
+      <description>Why enterprise GIS should be treated as operational infrastructure when organizations depend on it for planning, reporting, service delivery, and decisions.</description>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Difference Between GIS Support and GIS Architecture</title>
+      <link>https://spatialx.ca/insights/gis-support-vs-architecture</link>
+      <guid isPermaLink="true">https://spatialx.ca/insights/gis-support-vs-architecture</guid>
+      <description>GIS support fixes immediate issues. GIS architecture reduces recurring problems by improving platform, data, security, integration, and operational design.</description>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure by Design: What It Means for Geospatial Systems</title>
+      <link>https://spatialx.ca/insights/secure-by-design-geospatial</link>
+      <guid isPermaLink="true">https://spatialx.ca/insights/secure-by-design-geospatial</guid>
+      <description>Secure geospatial architecture includes identity, data exposure, roles, service boundaries, resilience, governance, and operational trust.</description>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What’s So Spatial About a Service Outage?</title>
+      <link>https://spatialx.ca/insights/spatial-service-outage</link>
+      <guid isPermaLink="true">https://spatialx.ca/insights/spatial-service-outage</guid>
+      <description>A GIS service outage can disrupt reporting, operations, delivery, and trust. Learn why reliability is an architectural concern, not just a server issue.</description>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What’s So Spatial About Risk?</title>
+      <link>https://spatialx.ca/insights/whats-so-spatial-about-risk</link>
+      <guid isPermaLink="true">https://spatialx.ca/insights/whats-so-spatial-about-risk</guid>
+      <description>Risk is spatial: it clusters, follows networks, changes with proximity, and becomes more useful when geography is part of the decision model.</description>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

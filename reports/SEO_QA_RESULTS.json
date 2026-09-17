@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-09-17T14:18:49.834Z",
+  "status": "PASS",
+  "checks": {
+    "htmlPages": 26,
+    "indexablePages": 24,
+    "canonical": 26,
+    "metaDescription": 26,
+    "openGraph": 26,
+    "twitter": 26,
+    "jsonLd": 24,
+    "oneH1": 26,
+    "phoneVisible": 26
+  },
+  "sitemapUrlCount": 24,
+  "issues": [],
+  "warnings": []
+}
